@@ -31,6 +31,7 @@ ALTER TABLE addresses
 It is possible to install a dictionary to extend **PostgreSQL Full-Text Search**.
 For example, for the Polish language:
 [https://github.com/dominem/postgresql_fts_polish_dict](https://github.com/dominem/postgresql_fts_polish_dict)
+
 ---
 
 Create an index on the ‘text_searchable’ column to speed up text search
